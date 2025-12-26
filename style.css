@@ -158,7 +158,7 @@
   width: 55px;
   position: absolute;
   top: 32px;
-  background: url("/headshot.jpg");
+  background: url("./headshot.jpg");
   background-size: 258%;
   background-position: top;
 }
